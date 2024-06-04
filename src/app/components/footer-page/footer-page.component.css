@@ -1,0 +1,12 @@
+.footer-custom {
+  background-color: #001f3f; /* Azul marinho */
+  color: white;
+  padding: 20px 0;
+}
+.footer-custom a {
+  color: white;
+  text-decoration: none;
+}
+.footer-custom a:hover {
+  text-decoration: underline;
+}
